@@ -1,0 +1,3 @@
+[submodule "external/demo_submodules_external"]
+	path = external/demo_submodules_external
+	url = https://github.com/Marfullsen/demo_submodules_external.git
