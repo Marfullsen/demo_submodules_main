@@ -21,7 +21,7 @@ cd demo_submodules_main
 Update the **submodule**:
 
 ```
-git submodule update
+git submodule update --init
 ```
 
 Update the **submodule** manually:
